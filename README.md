@@ -1,3 +1,4 @@
+
 🧩 CodeAlpha Hangman Game
 
 Domain: Python Programming Internship
@@ -58,3 +59,7 @@ Data manipulation (Pandas, NumPy)
 GitHub: https://github.com/prajwalpaarth
 
 LinkedIn: https://www.linkedin.com/in/paarth-moholkar-24b48a346/
+=======
+# codealpha_tasks
+tasks for internship
+
